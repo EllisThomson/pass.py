@@ -1,0 +1,37 @@
+v = '1'
+print('secret message input')
+c = input()
+print('Enter')
+q=input()
+if q== 'el':
+    print('Welcome to pass.py')
+elif q == 'hint':
+    print('Hint start of somthing')
+else:
+    print('thats wrong')
+if c == '1234':
+    for c in ('This is a python script'):
+        print('' + c)
+elif q=='wa':
+    print('thats weird')
+#im so proud of myself i took somthing so simple and added to it
+        
+if q=='el':
+    v=input()
+if v=='4':
+    for m in range(10):
+        print(m)
+if v =='hi':
+    print(v)
+if v =='my control':
+    print(input())
+if v =='troll':
+        print('troll words')
+        j = input()
+        for space in('                                        '):
+            print('' + space)
+        print(j)
+if q == 'rubix':
+    print('white cross solve white corner algs t,r,,t*,f*,t* < right side')
+
+
